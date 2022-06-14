@@ -1,0 +1,496 @@
+.contenedor__negro{
+ background: #282827;
+ height:310px;
+}
+
+.contenedor__formulario__dos{
+ width: 25%;
+ padding-top: 4em;
+}
+
+.iconos__blancos{
+ color: white;
+}
+
+.letras__blancas{
+ color: white;
+}
+
+#excel__modificaciones{
+	position: relative;
+	left: 1%!important;
+}
+
+.uppercase__texto{
+	text-transform:uppercase;
+}
+
+.monto__especial__titulo{
+	font-size:20px;
+}
+
+#terminosCondiciones{
+	width:20px!important; 
+	height:20px!important;
+}
+
+#tablaPoaInicial tr th{
+	font-size:12px!important;
+	vertical-align: middle!important;
+}
+
+.textos__titulos{
+	color:#0d47a1;
+	font-weight:bold;
+}
+
+.justify{
+	text-align:  justify;
+}
+
+#tablaPoaInicial tr td{
+	font-size:12px!important;
+	vertical-align: middle!important;	
+}
+
+.textos__titulazos{
+	font-size:19px!important;
+}
+
+.seccion__observaciones{
+	width: 80%;
+}
+
+.pointer__botones{
+	cursor: pointer;
+}
+
+.color__azul{
+	color:blue!important;
+}
+
+.oblique__estilo{
+	font-style: oblique;
+}
+
+.overflow_c{
+	overflow: scroll!important;
+}
+
+#modalRegistros,#terminosCondicionesModal,#actividadesModal,#tablaItems,#tablaItems,#reasignarTra,#modalVisualizaMatrices{
+	overflow: scroll!important;
+}
+
+
+.opacity{
+	opacity:1!important;
+}
+
+.ocultos__elementos{
+	display: none!important;
+}
+
+.texto__titulo-hoja{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.ancho__total__input{
+	width: 100%!important;
+	height: 30px!important;
+}
+
+.ancho__total__input__selects{
+	width: 100%!important;
+	height: 40px!important;
+}
+
+
+.ancho__total__input__selects__dos{
+	width: 100%!important;
+	height: 150px!important;
+}
+
+
+.ancho__total__textareas{
+	width: 100%!important;
+	height: 50px!important;
+}
+
+.sin__bordes__cs{
+	border:none!important;
+	text-align: center!important;
+}
+
+.justificado__textos{
+	text-align:justify!important;
+}
+
+.clase__ocultas{
+	display: none!important;
+}
+
+.estilo__enlaces__modales{
+	background:#05296E; 
+	color:white; 
+	padding:.2em;
+}
+
+.content__configuraciones{
+	width: 70%;
+}
+
+.estilos__inputsRadios{
+ border-radius:.2em;
+ background: #bab9bf;
+ height: 35px;
+ width: 100%;
+ text-align:center;
+ border-radius:4em;
+ border:1px solid #f2f3f3;
+}
+
+.modales__titulos{
+	text-transform:uppercase!important;
+}
+
+.left__margen{
+	margin-left: 2%;
+}
+
+table tbody tr td{
+	font-size: 10px!important;
+}
+
+.active__menu{
+  background: #F6BB1B!important;
+  color:white!important;
+}
+
+.ajs-header{
+	display: none;
+}
+
+.estilo__botonDatatablets{
+	font-size:10px!important;
+}
+
+.enfacis__pequenio{
+	font-weight:bold;
+	font-size:8px;
+}
+
+.botones__iniciales{
+	padding: .5em;
+	background: #282827;
+	border:1px solid #f2f3f3;
+	text-align:center;
+	color:white;
+	border-radius:2em;
+	width: 70%;
+}
+
+.active__form{
+	background:#09ead4;
+}
+
+.ancho__imagen{
+	width: 88.3%;
+}
+
+.bloque__filas{
+	display: block;
+}
+
+.redes__socialesLogin{
+    position: absolute;
+    background: rgba(0,0,0,0.4);
+    top: 34em;
+    width: 57%;
+    padding-bottom:.2em;
+}
+
+.color__loginTitulo{
+	color:white;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+.titulos__portadas{
+	font-size:14px!important;
+}
+
+.titulo__enfasis{
+	font-weight:bold!important;
+}
+
+.iconos__inicio{
+	font-size: 30px;
+	border:3px solid #394f66;
+	border-radius:50%;
+	padding: .4em;
+}
+
+.titulo__principalLogin{
+	font-size:18px;
+}
+
+figure {
+   margin: 0 0 0rem!important; 
+}
+
+.bloques__registros{
+	width: 45%;
+}
+
+.margen__registros{
+	margin-left:5%;
+}
+
+.titulos__ModalSeccion{
+	font-weight:bold;
+	color: #0069A9;
+}
+
+.input__registros{
+	width: 100%;
+}
+
+.modal-title{
+	font-weight:bold;
+}
+
+.justificado__textos{
+	text-align: justify;
+}
+
+.negrilla__titulosEnlazados{
+	font-weight:bold;
+	color: #0069A9;
+}
+
+.error{
+	border:2px solid red;
+}
+
+.error2{
+	border:2px solid blue;
+}
+
+.botones__iniciales{
+	text-decoration:none;
+	cursor:pointer;
+	width: 80%;
+}
+
+.imagen__dasboardLogo{
+	width:50%;
+}
+
+[class*=sidebar-dark-] {
+    background-color: #212B5C!important;
+}
+
+.ancho__totalText{
+	width: 100%;
+}
+
+.ajs-primary{
+	display:flex!important; 
+	justify-content:center!important;
+}
+
+
+.select-css-decorator{
+	display: block;
+	font-size: 16px;
+	font-family: sans-serif;
+	font-weight: 700;
+	color: #444;
+	line-height: 1.3;
+	padding: .6em 1.4em .5em .8em;
+	width: 100%;
+	max-width: 100%; /* useful when width is set to anything other than 100% */
+	box-sizing: border-box;
+	margin: 0;
+	border: 1px solid #aaa;
+	box-shadow: 0 1px 0 1px rgba(0,0,0,.04);
+	border-radius: .5em;
+	-moz-appearance: none;
+	-webkit-appearance: none;
+	appearance: none;
+	background-color: #fff;
+	/* note: bg image below uses 2 urls. The first is an svg data uri for the arrow icon, and the second is the gradient. 
+		for the icon, if you want to change the color, be sure to use `%23` instead of `#`, since it's a url. You can also swap in a different svg icon or an external image reference
+		
+	*/
+	background-image: url('data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23007CB2%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E'),
+	  linear-gradient(to bottom, #ffffff 0%,#e5e5e5 100%);
+	background-repeat: no-repeat, repeat;
+	/* arrow icon position (1em from the right, 50% vertical) , then gradient position*/
+	background-position: right .7em top 50%, 0 0;
+	/* icon size, then gradient */
+	background-size: .65em auto, 100%;
+}
+
+ .tabla__matricesJ thead tr th { 
+            position: sticky!important;
+            top: 0!important;
+            z-index: 10!important;
+
+        }
+    
+        .tabla__matricesJ { 
+            height:200px!important;
+            overflow:scroll!important;
+        }
+
+
+@media (max-width: 850px) {
+
+.bloques__registros{
+	width: 100%;
+}
+
+.margen__registros{
+	margin-left:0%;
+	margin-top: 1em;
+}
+
+.iconos__inicio{
+	font-size: 20px;
+	border:3px solid #394f66;
+	border-radius:50%;
+}
+
+.contenedor__formulario__dos{
+	width:95%;
+}
+
+.ancho__imagen{
+	width:100%;
+}
+
+.redes__socialesLogin{
+    position: absolute;
+    background: rgba(0,0,0,0.4);
+    top: 21.5em;
+    width: 100%;
+}
+
+}
+
+.input__act:focus{
+	border:1px solid black !important;
+}
+
+.file-picker{
+  background-color:#F6BB1B;
+  color:black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  padding: .5em;
+}
+
+.posicion__lupas{
+	position: relative;
+	left: -.8em;
+	top:-.7em;
+}
+
+.file-picker + [type='file']{
+  display:none;
+}
+
+/*cambios santi*/
+.modal-header{
+	background-image: url("../../../images/Imagen_header.png");
+	background-size: cover;
+	background-position: center 15%;
+}
+
+.modal-title{
+	color: var(--bs-white);
+}
+
+.modal-body, .modal-footer{
+	background-color: var(--bs-white);
+}
+
+.modal-body{
+	align-items:center;
+	row-gap: 1em;
+}
+
+#btn-cerrar{
+	background-color: var(--bs-white);
+	border: 1px solid var(--bs-dark);
+	color: var(--bs-dark);
+}
+
+#btn-cerrar:hover{
+	background-color: var(--bs-dark);
+	border: 1px solid var(--bs-dark);
+	color: var(--bs-white);
+}
+
+#btn-cerrar__icon{
+	position: absolute;
+	right: 1em;
+	top:1em;
+}
+
+.btn-close{
+	color: #fff!important;
+	background: none!important;
+}
+
+.btn-close i{
+	font-size: 2em;
+	color: var(--bs-white);
+}
+
+.btn__enviar{
+	background-color: rgba(33,42,92,1)!important;
+	color: var(--bs-white)!important;
+}
+
+.btn__enviar:hover{
+	background-color: rgba(33,42,92,.95)!important;
+}
+
+.letras__ver__poa{
+	height: 100%!important;
+	text-align: right!important;
+	font-weight: normal!important;
+	font-size: 1em!important;
+	margin-bottom:0!important;
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+}
+
+.btn-info{
+	background-color: rgba(33,42,92,1)!important;
+}
+
+.ver__Tabla{
+	background-color: rgba(33,42,92,1)!important;
+}
+
+.btn-info:hover{
+	background-color: rgba(33,42,92,.95)!important;
+}
+
+/**{
+	outline: 1px solid red;
+}
+*/
+
+.border__contenedor{
+	border:1px solid #42a5f5;
+	border-radius: 1em;
+	padding: 1.5em;
+}
